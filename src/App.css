@@ -3,7 +3,8 @@ body {
   background-color: #f4f4f4;
   padding: 30px;
   color: #333;
-  background-image: url('./img/background.jpg');
+  background: rgb(19,8,219);
+background: linear-gradient(169deg, rgba(19,8,219,1) 0%, rgba(26,67,200,1) 0%, rgba(0,212,255,1) 100%);
   background-position: center;
   background-size: cover;
 }
